@@ -26,8 +26,8 @@ int main(int argc, char *argv[]) {
 	cin >> name;
 	cout << "Hello, " << name << endl;
 
-	// 1.4 merge branch "hello" into "master" keeping ALL of the code added so far
+	// 1.4 merge branch "hello" into "master" keeping ALL of the code added so far.
 
-	// 1.5 make a merge commit 
+	// 1.5 make a merge commit.
 
 }
